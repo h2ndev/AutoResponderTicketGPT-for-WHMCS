@@ -41,7 +41,7 @@ Dự án này là một addon cho WHMCS, tự động phản hồi các ticket m
    - Điều hướng đến `Addons` > `Addon Modules`.
    - Tìm `AutoResponderGPT` và nhấp vào `Activate`.
    - Nhấp vào `Configure` và nhập OpenAI API Key và admin username.
-   ![Demo]([https://i.imgur.com/jm8fGpG.png](https://i.imgur.com/8FISzOz.png))
+   ![Demo](https://i.imgur.com/8FISzOz.png)
 
 ## Sử dụng (Tự Động)
 
