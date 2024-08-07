@@ -1,5 +1,7 @@
 # AutoResponderGPT for WHMCS
 
+[Read this in English](/README.md)
+
 ## Mô tả
 
 Dự án này là một addon cho WHMCS, tự động phản hồi các ticket mới bằng cách sử dụng API ChatGPT. Addon này lấy nội dung và tiêu đề của ticket mới, gửi chúng đến ChatGPT API để tạo câu trả lời kết hợp với thông tin prompt của người dùng trong config addon, và sau đó phản hồi lại ticket dưới tư cách là admin.
@@ -39,6 +41,7 @@ Dự án này là một addon cho WHMCS, tự động phản hồi các ticket m
    - Điều hướng đến `Addons` > `Addon Modules`.
    - Tìm `AutoResponderGPT` và nhấp vào `Activate`.
    - Nhấp vào `Configure` và nhập OpenAI API Key và admin username.
+   ![Demo]([https://i.imgur.com/jm8fGpG.png](https://i.imgur.com/8FISzOz.png))
 
 ## Sử dụng (Tự Động)
 
