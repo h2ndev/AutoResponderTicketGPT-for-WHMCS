@@ -27,8 +27,8 @@ This project is an addon for WHMCS that automatically responds to new tickets us
 1. **Clone repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/h2ndev/AutoResponderTicketGPT-for-WHMCS.git
+   cd AutoResponderTicketGPT-for-WHMCS
    ```
 
 2. **Copy the code to your WHMCS directory**:
