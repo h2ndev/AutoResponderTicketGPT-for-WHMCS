@@ -27,8 +27,8 @@ Dự án này là một addon cho WHMCS, tự động phản hồi các ticket m
 1. **Clone repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/h2ndev/AutoResponderTicketGPT-for-WHMCS.git
+   cd AutoResponderTicketGPT-for-WHMCS
    ```
 
 2. **Sao chép mã vào thư mục WHMCS**:
